@@ -1,0 +1,2 @@
+# Guillotined Chemists Handbook 
+This repo contains the code for the [Guillotined Chemists Handbook extension](https://chrome.google.com/webstore/detail/guillotined-chemists-hand/mmoofdchnhgamecafaceoidojbdoikof?hl=en) available on the Chrome extension store. Feel free to clone and modify/personalize!
